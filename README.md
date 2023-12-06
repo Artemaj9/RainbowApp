@@ -8,7 +8,7 @@
 
 * MVC
 * AutoLayout programmaticaly + Snapkit
-* UIAnimtion
+* UIAnimation
 * UserDefaults
 * iOS 15+
 
